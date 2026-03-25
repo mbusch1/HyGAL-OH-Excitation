@@ -1,0 +1,36 @@
+1667 : Present study
+Weighted mean y with std dev in y (not std error): 0.014538109422226301 +/- 0.011527989539586756
+Median y with upper and lower sextiles:            0.015824293 + 0.011946753333333334 - 0.010426940666666665
+Median T_ex with upper and lower sextiles:         5.060802038323649 + 9.77727293527803 - 2.177250949011682
+---
+1667 : Hafner, with P(KS) =  0.6876809928221834
+Median y with upper and lower sextiles:            0.017523578525670706 + 0.007935031702831559 - 0.008889527587310063
+Median T_ex with upper and lower sextiles:         4.445 + 3.9549999999999983 - 1.6300000000000003
+---
+1665 : Present study
+Weighted mean y with std dev in y (not std error): 0.017467653875311216 +/- 0.01588533561259577
+Median y with upper and lower sextiles:            0.017412354 + 0.012573500000000001 - 0.010009032333333334
+Implied T_ex                          :            4.588598321314865 + 6.205163036126405 - 1.913325881426514
+---
+1665 : Hafner, with P(KS) =  0.6876480574290803
+Median y with upper and lower sextiles:            0.017716157341985193 + 0.007291196025849437 - 0.008557432826992496
+Implied T_ex                          :            4.3999999999999995 + 3.7849999999999993 - 1.7199999999999998
+---
+1612 : Present study
+Weighted mean y with std dev in y (not std error): 0.03266021280423431 +/- 0.05618526307127032
+Median y with upper and lower sextiles:            0.042030686 + 0.06633557633333335 - 0.03334310766666666
+Implied T_ex                          :            1.8404407945734118 + 7.063650330740825 - 1.1266117164756313
+---
+1612 : Hafner, with P(KS) =  0.03552129964133858
+Median y with upper and lower sextiles:            0.022708377493252586 + 0.01833597158227126 - 0.016098089305780855
+Implied T_ex                          :            3.406451612903225 + 8.295759689308076 - 1.5217831778899626
+---
+1720 : Present study
+Weighted mean y with std dev in y (not std error): -0.005561913051959943 +/- 0.06367764415776393
+Median y with upper and lower sextiles:            0.00101913 + 0.02796776266666667 - 0.07657546400000001
+Implied T_ex                          :            N/A
+---
+1720 : Hafner, with P(KS) =  0.03241583408054871
+Median y with upper and lower sextiles:            0.008295706561202855 + 0.03255655134444657 - 0.021899570998007423
+Implied T_ex                          :            N/A
+---
